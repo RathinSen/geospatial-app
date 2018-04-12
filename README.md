@@ -1,2 +1,2 @@
 # geospatial-app
-App which geospatial details
+App which provides geospatial details
